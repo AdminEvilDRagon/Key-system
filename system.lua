@@ -12,7 +12,7 @@ _G.Key = "o=:/jQ-ycO<HaqJf&YN;|xSa!5]t-%8*%FX68_gT0284+D_X*VNy^BAd~Uu1t;$" -- Yo
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-    loadstring(game:HttpGet(("https://raw.githubusercontent.com/AdminEvilDRagon/New-Update/main/Update%20New.lua"), true))() -- You Put Your Script Here
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AdminEvilDRagon/Evil-Hub-updatet-/main/Evil-Hub%20updatet%2027.8.lua", true))() -- You Put Your Script Here
 
 end
 
